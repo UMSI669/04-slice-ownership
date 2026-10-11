@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Conference Domain Ownership",
+    "slug": "conference-domain-ownership",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "sdkVersion": "54.0.0"
+  }
+}
